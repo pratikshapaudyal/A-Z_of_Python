@@ -39,7 +39,7 @@ This is a project to define keywords and features of Python in alphabetical orde
 
 ## F
 - foobar
-- F-string
+- [F-string](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/F/f-string.md)
 - Functions
 
 ## G
