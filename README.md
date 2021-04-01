@@ -19,8 +19,8 @@ This is a project to define keywords and features of Python in alphabetical orde
 
 ## C
 - Compiler
-- Concantenate
-- Constructor
+- [Concatenation](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/C/Concatenation.md)
+- Constructor 
 - Context manager
 
 ## D
