@@ -3,8 +3,7 @@
 ## What is a generator?
 
 A generator lazily creates values.
-They are very useful when working with large data sets.
-
+They are very useful when working with large data sets.  
 A generator will use the 'yield' keyword rather than 'return'
 
 ## Code example

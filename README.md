@@ -1,16 +1,21 @@
 # A-Z_of_Python
 
-This is a project to define keywords and features of Python in alphabetically order.
+This is a project to define keywords and features of Python in alphabetical order, an A-Z of Python concepts. If you click on the link below it will take you to the definition of the keyword. I have also provided example code for each keyword. Thanks! :) 
 
 ## A
 - [Abstract base class](https://github.com/pratikshapaudyal/A-Z_of_Python/blob/develop/A/AbstractBaseClass.md)
+- Append
+- API
+- Array
+- Async
+- Attributes 
 
 ## B 
-- [Boolean](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/B/Boolean.md)
-- Bitwise
 - Binary
-- Break
+- Bitwise
 - Boiler plate code
+- [Boolean](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/B/Boolean.md)
+- Break
 
 ## C
 - Compiler
@@ -19,10 +24,24 @@ This is a project to define keywords and features of Python in alphabetically or
 - Context manager
 
 ## D
+- Dataclasses
+- Decode
+- Decorator
+- Dependency Injection
+- Dict
+- Dunder methods
 
 ## E
+- Enum
+- Eval
+- Exception/error handling
 
 ## F
+- Filter
+- foobar
+- Format
+- Functions
 
 ## G
 - [Generator](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/G/Generator.md)
+- Global
