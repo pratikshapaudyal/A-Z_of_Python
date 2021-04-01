@@ -18,6 +18,7 @@ You will need to convert the int to a str first.
 **join()**
 
 You can concatenate a list of strings to a string using the 'join' method. 
+join() will always add the string to the middle of the list of strings.
 
 ## Concatenation example
 [concatenation_ex.py](https://github.com/pratikshapaudyal/A-Z_of_Python/blob/develop/C/concatenation_ex.py)
