@@ -38,9 +38,8 @@ This is a project to define keywords and features of Python in alphabetical orde
 - Exception/error handling
 
 ## F
-- Filter
 - foobar
-- Format
+- F-string
 - Functions
 
 ## G
