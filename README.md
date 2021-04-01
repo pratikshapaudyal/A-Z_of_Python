@@ -25,13 +25,14 @@ This is a project to define keywords and features of Python in alphabetical orde
 
 ## D
 - Dataclasses
-- Decode
+- [Decode](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/D/Decode.md)
 - Decorator
 - Dependency Injection
 - Dict
 - Dunder methods
 
 ## E
+- [Encode](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/E/Encode.md)
 - Enum
 - Eval
 - Exception/error handling
