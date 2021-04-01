@@ -1,0 +1,4 @@
+bytes_object = b'\xf0\x9f\x98\x80\xf0\x9f\x98\x80\xf0\x9f\x98\x80'
+bytes_object.decode("utf-8")
+print(bytes_object)
+
