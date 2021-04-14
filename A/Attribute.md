@@ -56,4 +56,4 @@ hasattr(object, name)
 True
 ```
 
-Please refer to the [Attribute Python Example](https://github.com/pratikshapaudyal/A-Z_of_Python/blob/develop/A/Attribute_ex.py) for more details. 
+Please refer to the [Attribute Python Example](https://github.com/pratikshapaudyal/A-Z_of_Python/blob/develop/A/attribute_ex.py) for more details. 
