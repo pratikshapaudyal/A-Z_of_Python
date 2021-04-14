@@ -8,7 +8,7 @@ This is a project to define keywords and features of Python in alphabetical orde
 - API
 - Array
 - Async
-- Attributes 
+- [Attributes](https://github.com/pratikshapaudyal/A-Z_of_Python/blob/develop/A/Attribute.md)
 
 ## B 
 - Binary
@@ -33,7 +33,7 @@ This is a project to define keywords and features of Python in alphabetical orde
 
 ## E
 - [Encode](https://github.com/pratikshapaudyal/A-Z_of_Python/tree/develop/E/Encode.md)
-- Enum
+- [Enum](https://github.com/pratikshapaudyal/A-Z_of_Python/blob/develop/E/Enum.md)
 - Eval
 - Exception/error handling
 
